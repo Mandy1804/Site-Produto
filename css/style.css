@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(233, 223, 240);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    text-align: center;
+}
+
+
+h1{
+    color: rgb(49, 4, 90);
+    text-decoration-line: overline;
+    text-align: center;
+}
